@@ -1,6 +1,8 @@
 # Curriculum Vitae Interactivo
 ¡Bienvenido al repositorio de mi proyecto de currículum vitae interactivo creado durante el curso de Ticmas Academy!
 
+Puedes visualizar el CV Interactivo mediante el siguiente link: [franco-cervera.github.io](https://franco-cervera.github.io/)
+
 ## Descripción del Proyecto
 Este proyecto tiene como objetivo desarrollar un currículum vitae en formato web utilizando tecnologías fundamentales en el desarrollo web, como HTML, CSS y JavaScript. Además, implementa la capacidad de consumir una API para actualizar dinámicamente los datos que se muestran en el currículum.
 
