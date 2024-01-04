@@ -6,6 +6,9 @@ Este proyecto tiene como objetivo desarrollar un currículum vitae en formato we
 
 ## Tecnologías Utilizadas
 HTML: Estructura semántica para la construcción del contenido.
+
 CSS: Estilos para la presentación y diseño atractivo.
+
 JavaScript: Interactividad y dinamismo en la interfaz.
+
 API: Integración para la obtención de datos actualizados.
